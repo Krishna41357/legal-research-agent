@@ -1,0 +1,18 @@
+# Core LangChain packages
+langchain-core
+langchain-groq
+langchain-cohere
+langchain-text-splitters
+langgraph
+
+# Embeddings
+cohere
+
+# PDF parsing
+pymupdf
+
+# Data validation
+pydantic
+
+# Environment variables
+python-dotenv
